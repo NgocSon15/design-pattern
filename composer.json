@@ -1,0 +1,15 @@
+{
+    "name": "admin/design-pattern",
+    "autoload": {
+        "psr-4": {
+            "DesignPattern\\": ""
+        }
+    },
+    "authors": [
+        {
+            "name": "sonnguyen8-admin",
+            "email": "ngocson1562k@gmail.com"
+        }
+    ],
+    "require": {}
+}
